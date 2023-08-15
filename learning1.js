@@ -33,7 +33,7 @@ if (a > b) {
     console.log(`${a} is less than ${b}`);
 }
 
-Using ternary operator
+// Using ternary operator
 let result = (a > b) ? `${a} is greater than ${b}` : `${a} is less than ${b}`;
 console.log(result);
 
